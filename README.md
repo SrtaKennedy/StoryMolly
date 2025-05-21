@@ -14,4 +14,4 @@ O aplicativo é projetado para ser simples e fácil de usar, com uma navegação
 - Newtonsoft.Json
 - Windows Forms 
 
-*Podem deixar sugestões de melhorias ou implementação de novas funcionalidades.
+### Sugestões de melhorias ou implementação de novas funcionalidades são bem-vindas.
