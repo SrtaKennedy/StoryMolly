@@ -16,7 +16,8 @@ O aplicativo é projetado para ser simples e fácil de usar, com uma navegação
 
 ### Sugestões de melhorias ou implementação de novas funcionalidades são bem-vindas.
 
-📌 Nota sobre desenvolvimento:
+
+#### 📌 Nota sobre desenvolvimento:
 
 Durante a construção, utilizei ferramentas de Inteligência Artificial de forma pontual, como apoio para entender estruturas de código, revisar lógicas e tratar exceções.
 
