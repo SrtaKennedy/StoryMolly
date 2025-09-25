@@ -19,6 +19,6 @@ O aplicativo é projetado para ser simples e fácil de usar, com uma navegação
 
 #### 📌 Nota sobre desenvolvimento:
 
-Durante a construção, utilizei ferramentas de Inteligência Artificial de forma pontual, como apoio para entender estruturas de código, revisar lógicas e tratar exceções.
+Durante a construção, utilizei ferramentas de IA de forma pontual, como apoio para entender estruturas de código, revisar lógicas e tratar exceções.
 
 Todo o conteúdo implementado foi compreendido, testado e adaptado ao contexto do projeto, com o objetivo principal de reforçar meu aprendizado e desenvolver autonomia técnica.
